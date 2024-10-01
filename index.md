@@ -2,13 +2,13 @@
 title: Home
 layout: home
 ---
-# 《计算机网络》 (2024秋季学期, HFU)
+# 《计算机网络基础》 (2024秋季学期, HFU)
 
 ## 基本信息
 
 <dl>
   <dt>课程</dt>
-  <dd>Computer Networks (计算机网络)</dd>
+  <dd>Fundamentals of Computer Network (计算机网络)</dd>
   <dt>主讲</dt>
   <dd>马婷婷</dd>
   <dt>学分</dt>
