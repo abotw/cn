@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 计算机网络
+description: Computer Networks, 计算机网络
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://abotw.github.io/cn
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/abotw/cn
