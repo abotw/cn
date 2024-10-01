@@ -1,7 +1,7 @@
 ---
-title: Textbooks
+title: Books
 layout: home
 ---
-# Textbooks, 教材
+# Books, 书籍
 
 Last Updated: Tue Oct  1 20:12:06 CST 2024
