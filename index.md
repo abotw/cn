@@ -8,7 +8,7 @@ layout: home
 
 <dl>
   <dt>课程</dt>
-  <dd>Fundamentals of Computer Network (计算机网络)</dd>
+  <dd>Fundamentals of Computer Network (计算机网络基础)</dd>
   <dt>主讲</dt>
   <dd>马婷婷</dd>
   <dt>学分</dt>
