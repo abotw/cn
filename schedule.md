@@ -1,5 +1,5 @@
 ---
-title: schedule
+title: Schedule
 layout: home
 ---
 # Schedule, 学期日程
@@ -9,7 +9,7 @@ layout: home
 <pre>    Mo Tu We Th Fr Sa Su
 Sep  2  3  4  5  6  7  8    
      9 10 11 12 13 14 15    
-    16 17 18 <span style="color: red;"><b>19</b></span> 20 21 22    lec 01; first class
+    16 17 18 <span style="color: red; background: yellow;"><b>19</b></span> 20 21 22    lec 01; first class
     23 <span style="color: red;"><b>24</b></span> 25 <span style="color: red;"><b>26</b></span> 27 28 29    lec 02, lec 03
     30
 Oct     <span style="color: green;"><b>1  2  3  4  5  6</b></span>    National Day holiday
