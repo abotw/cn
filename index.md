@@ -26,7 +26,6 @@ layout: home
 	- Thu 10:20 a.m. - 12:00 a.m. in 36-501 (每周四)
 	- 17 周加课
 		- Tue 10:20 a.m. - 12:00 a.m. in 36-503 (周二)
-		- Thu 14:00 p.m. - 15:40 p.m. in 36-503 (周四)
 
 ---
 Last Updated: Tue Oct  1 17:09:24 CST 2024
