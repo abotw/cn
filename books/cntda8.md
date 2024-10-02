@@ -15,6 +15,7 @@ w3: http://gaia.cs.umass.edu/kurose_ross
 tags:
   - communications
 ---
+
 # Computer Networking: a Top Down Approach(8ed)
 
 <div>
