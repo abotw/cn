@@ -6,7 +6,7 @@ parent: Projects
 
 # Proj 1: 物联网应用及关键技术知识学习的小论文 
 
-模版：\[[PDF](./docs/学号-姓名-自主学习项目1.pdf)\] \[[Doc](./docs/学号-姓名-自主学习项目1.doc)\] 
+**模版：\[[PDF](./docs/学号-姓名-自主学习项目1.pdf)\] \[[Doc](./docs/学号-姓名-自主学习项目1.doc)\]** 
 
 - 分组方式：1 人 1 组
 - 考核方式：提交一份自主学习报告
@@ -35,5 +35,5 @@ parent: Projects
 
 ---
 
-Last Updated: Wed Oct  2 16:25:51 CST 2024
+Last Updated: Wed Oct  2 16:31:38 CST 2024
 
