@@ -10,7 +10,7 @@ parent: Projects
 
 - 分组方式：1 人 1 组
 - 考核方式：提交一份自主学习报告
-- 具体要求：
+- 具体要求
 	1. 学习内容：2 选 1
 		- 物联网：如物联网的发展、关键技术和主要应用
 		- 大数据
@@ -35,5 +35,5 @@ parent: Projects
 
 ---
 
-Last Updated: Wed Oct  2 16:31:38 CST 2024
+Last Updated: Wed Oct  2 16:33:30 CST 2024
 
