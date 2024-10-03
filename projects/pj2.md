@@ -5,6 +5,8 @@ parent: Projects
 ---
 # Proj 2: Internet访问协议分析
 
+**模版：\[[PDF](./docs/学号-姓名-自主学习项目2.pdf)\] \[[Doc](./docs/学号-姓名-自主学习项目2.doc)\]** 
+
 ## 任务
 
 分析利用笔记本电脑通过无线 WiFi 或 LAN 访问某一个网站指定网页的协议运行全过程（包括笔记本电脑的 IP 地址的动态获取、DNS 解析、ARP 地址解析、TCP 连接、HTTP 协议等），要求利用抓包工具（wireShark、科莱等）验证你的分析。
