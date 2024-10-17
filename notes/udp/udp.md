@@ -10,7 +10,7 @@ parent: Notes
 
 - PDF: [UDP & ICMP Headers](https://www.cs.nmt.edu/~risk/UDP_ICMP_Headers.pdf)
 
-![[udp-header.png]]
+![](./attachments/udp-header.png)
 
 - fixed bytes: 8 bytes
 
